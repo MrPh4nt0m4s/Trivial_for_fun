@@ -1,1 +1,1 @@
-# Trivial_for_fun
+A new astonishing board game!!!
